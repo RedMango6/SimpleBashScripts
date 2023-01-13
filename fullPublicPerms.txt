@@ -1,0 +1,6 @@
+#!/bin/bash
+#source fullPublicPermissions
+#gives full permissions to "others".
+# The one and only argument is the file whose permissions are to be modified
+chmod o+rwx $1
+exit 0 
