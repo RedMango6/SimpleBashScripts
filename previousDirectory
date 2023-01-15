@@ -1,0 +1,5 @@
+#!/bin/bash
+#source: previousDirectory
+#outputs previous working directory
+cd -
+exit 0
