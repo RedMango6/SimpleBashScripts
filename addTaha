@@ -1,0 +1,4 @@
+#!/bin/bash
+#source: addTaha
+#takes a file as the first argument and appends "Taha" to the end of the file on a new line.
+echo Taha >> $1
